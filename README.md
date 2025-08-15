@@ -3,9 +3,7 @@ My journey towards becoming a Linux embedded developer.
 
 :pushpin: Goal
 Develop professional skills in the embedded field with an emphasis on industrial tools, hardware communication, and user space.
-:date: Period
-start: August 2025
-end: August 2026 (🤞)
+:date: started on August 2025
 
 ---
 
