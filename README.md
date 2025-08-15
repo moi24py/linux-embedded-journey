@@ -1,8 +1,8 @@
 # linux-embedded-journey
 My journey towards becoming a Linux embedded developer.
 
-:pushpin: Goal
-Develop professional skills in the embedded field with an emphasis on industrial tools, hardware communication, and user space.
+<p>:pushpin: Goal<br>
+Develop professional skills in the embedded field with an emphasis on industrial tools, hardware communication, and user space.</p>
 :date: started on August 2025
 
 ---
