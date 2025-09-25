@@ -10,9 +10,9 @@ Develop professional skills in the embedded field with an emphasis on industrial
 ## Roadmap
 | #      | Project                          | Date        | Tech used                                         |
 | :----- | -------------------------------- | ----------- | -------------------------------------------------
-| 1 :white_check_mark:  | [Hello + Make](https://github.com/moi24py/hello-c)           | 15 08 2025 | `gcc`, `Makefile`
-| 2 ✅  | [File Logger](https://github.com/moi24py/file-logger)                      | 20 08 2025 | `fopen`, `fprintf`, `fclose`                    |
-| 3   | Read from stdin                 | ... 2025 | `scanf`, `fgets`, `read`, `buffer input`          | 
+| 1   | [Hello + Make](https://github.com/moi24py/hello-c)           | 15 08 2025 | `gcc`, `Makefile`
+| 2   | [File Logger](https://github.com/moi24py/file-logger)                      | 20 08 2025 | `fopen`, `fprintf`, `fclose`                    |
+| 3   | [Mini menu](https://github.com/moi24py/mini-embedded-system-menu)| 25 09 2025 | `fgets`, `strtol`, `read`, `buffer input`          | 
 | 4   | Use of `struct` + array + malloc | ... 2025 | `struct`, `array`, `malloc`, `pointers`           |
 | 5   | Signal Handling (`Ctrl+C`, ecc)  | ... 2025 | `signal`, `sigaction`, `kill`                   | 
 | 6   | Timer e misurazione del tempo    | ... 2025 | `time.h`, `clock_gettime`, `sleep`, `usleep`      | 
