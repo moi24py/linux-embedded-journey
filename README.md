@@ -12,8 +12,8 @@ Develop professional skills in the embedded field with an emphasis on industrial
 | :----- | -------------------------------- | ----------- | -------------------------------------------------
 | 1   | [Hello + Make](https://github.com/moi24py/hello-c)           | 15 08 2025 | `gcc`, `Makefile`
 | 2   | [File Logger](https://github.com/moi24py/file-logger)                      | 20 08 2025 | `fopen`, `fprintf`, `fclose`                    |
-| 3   | [Mini menu](https://github.com/moi24py/mini-embedded-system-menu)| 25 09 2025 | `fgets`, `strtol`, `read`, `buffer input`          | 
-| 4   | Use of `struct` + array + malloc | ... 2025 | `struct`, `array`, `malloc`, `pointers`           |
+| 3   | [Mini Menu](https://github.com/moi24py/mini-embedded-system-menu)| 25 09 2025 | `fgets`, `strtol`, `read`, `buffer input`          | 
+| 4 ⏳  | [Network Packet Analyzer](https://github.com/moi24py/network-packet-analyzer) | xx 09 2025 | `struct`, `array`, `malloc`, `pointers`           |
 | 5   | Signal Handling (`Ctrl+C`, ecc)  | ... 2025 | `signal`, `sigaction`, `kill`                   | 
 | 6   | Timer e misurazione del tempo    | ... 2025 | `time.h`, `clock_gettime`, `sleep`, `usleep`      | 
 | 7   | Thread Logger                    | ... 2025 | `pthread`, `mutex`, `pthread_join`                |
