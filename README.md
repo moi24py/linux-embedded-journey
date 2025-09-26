@@ -1,4 +1,4 @@
-# linux-embedded-journey
+# linux-embedded-journey 🐧
 My journey towards becoming a Linux embedded developer.
 
 <p>:pushpin: Goal<br>
